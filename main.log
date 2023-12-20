@@ -1,0 +1,4 @@
+[2023-12-01 02:57:17,600][timm.models._hub][INFO] - Downloading: "https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_large.pth" to /Users/anudeep/.cache/torch/hub/checkpoints/model_large.pth
+
+[2023-12-10 01:07:06,700][timm.models._hub][INFO] - Downloading: "https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_large.pth" to /Users/anudeep/.cache/torch/hub/checkpoints/model_large.pth
+
